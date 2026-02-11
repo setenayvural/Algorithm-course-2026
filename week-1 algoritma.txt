@@ -1,0 +1,13 @@
+1. Start
+2. Declare integer variables: sum,counter,num
+3. Set sum ← 0
+4. Set counter ← 1
+5. While counter <= 10 do
+6.       Input num
+7.       If num mod 2 = 0 then
+8.           Set sum ← sum + num
+9.       End if 
+10.      Set counter ← counter + 1
+11. End while
+12. Output sum
+13. Stop
